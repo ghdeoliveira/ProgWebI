@@ -1,4 +1,4 @@
 # Instituto Federal Catarinense - Campus Camboriú
 # Disciplina de Desenvolvimento Web I
 
-# Exercícios de HTML
+# Lista de 10 Exercícios HTML
