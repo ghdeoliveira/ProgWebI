@@ -1,0 +1,55 @@
+<tags> Descontinuadas
+
+<acronym>       Usar <abbr>
+<applet>	    Usar <embed> ou <object>
+<basefont>
+<big>
+<center>
+<dir>	        Usar <ul>
+<font>
+<frame>	
+<frameset>	
+<isindex>
+<noframes>
+<s>
+<strike>
+<tt>
+<u> 
+<xmp>
+
+
+<tags> Acrescentadas
+
+Elemento	    Definição
+<article>	    Define um artigo em um documento
+<aside>	        Define um conteúdo, a parte, do conteúdo da página
+<bdi>	        Define um texto que pode ser formatado em diferentes direções
+<details>	    Define detalhes adicionais que o usuário pode ver ou ocultar
+<dialog>	    Define uma caixa de diálogo ou janela
+<figcaption>	Define uma legenda para um elemento <figure>
+<figure>	    Define um conteúdo como ilustrações, diagramas, fotos, códigos, listagens, etc.
+<footer>	    Define o rodapé do documento ou seção
+<header>	    Define um cabeçalho para o documento ou uma seção
+<main>	        Define o conteúdo principal de um documento
+<mark>	        Define um texto marcado ou realçado
+<menuitem>	    Define um commando/menu que pode ser usado para invocar um menu popup
+<meter>	        Define uma medida escalar dentro de uma faixa conhecida
+<nav>	        Define links de navegação no documento
+<progress>	    Define o progresso de uma tarefa
+<rp>	        Define o que exibir em navegadores que não exibem anotações ruby (anotações ruby são para mostrar a pronúncia de caracteres do Leste Asiático.)
+<rt>	        Define a pronúncia de um caractere (para tipografias do Leste Asiático)
+<ruby>	        Define uma anotação ruby (para tipografia do Leste Asiático)
+<section>	    Define uma seção no documento
+<summary>	    Define um título visível para um elemento <details>
+<time>	        Define uma data/hora
+<wbr>	        Define uma possível quebra de linha
+<datalist>	    Lista opções predefinidas para controles inputs
+<keygen>	    Define um campo de gerador de par de chaves (para formulários)
+<output>	    Define o resultado de um cálculo
+<canvas>	    Define um desenho gráfico usando JavaScript
+<svg>	        Define um desenho gráfico usando SVG
+<audio>	        Define um conteúdo de som ou música
+<embed>	        Define um contêiner para aplicações externas (como plug-ins)
+<source>	    Define fonte para <video> e <audio>
+<track>	        Define faixas para <video> e <audio>
+<video>         Define conteúdo de vídeo ou filme

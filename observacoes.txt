@@ -1,0 +1,7 @@
+EXERCÍCIOS HTML5
+
+12) A principal diferença entre a implementação em HTML4 para HTML5 está ma margem
+ superior, que diminui no HTML5, além de aumentar a altura da impressão da fonte, 
+ levemente.
+
+13) 
