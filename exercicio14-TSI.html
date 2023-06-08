@@ -4,11 +4,23 @@
     <meta charset="UTF-8">
     <title> Exercício 14 </title>
 </head>
+<style type="text/css">
+    span {
+        display: flex;
+        justify-content: center;
+        font-weight: bold;
+        font-size: 32px;
+    }
+    #logo {
+        float: left;
+        height: 100px;
+    }
+</style>
 <body>
-    <p align="center"><font size="6"><strong>Quebras</strong></font></p>
+    <span id="titulo">Quebras</span>
         <p>
             Este texto aparece antes da imagem, a qual vai ser alinhada à esquerda <br>
-            <img src="./img/Logo_IFC_camboriu.png" alt="Logotipo IFC" height="100" align="left">
+            <img id="logo" src="./img/Logo_IFC_camboriu.png" alt="Logotipo IFC">
             Esta frase está na mesma linha da imagem <br>
             pelo que fica à sua direita. <br clear="all">
             O parâmetro de limpeza faz ultrapassar a imagem.

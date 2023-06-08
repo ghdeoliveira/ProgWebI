@@ -4,7 +4,45 @@
     <meta charset="UTF-8">
     <title> Exercício 21 </title>
 </head>
+<style type="text/css">
+
+</style>
 <body>
+    <h1>Formulário</h1>
+
+    <p>Insira seus dados:</p>
+    <form>
+        <label for="fname">Primeiro nome:</label><br>
+        <input type="text" id="fname" name="fname" value="Gabriel"><br>
+        <label for="lname">Sobrenome:</label><br>
+        <input type="text" id="lname" name="lname" value="Oliveira"><br><br>
+        <input type="submit" value="Enviar">
+    </form>
     
+    <br>
+    
+    <p>Escolha sua linguagem favorita:</p>
+    <form>
+      <input type="radio" id="python" name="fav_language" value="Python">
+      <label for="html">Python</label><br>
+      <input type="radio" id="css" name="fav_language" value="CSS">
+      <label for="css">CSS</label><br>
+      <input type="radio" id="javascript" name="fav_language" value="JavaScript">
+      <label for="javascript">JavaScript</label><br>
+      <input type="radio" id="java" name="fav_language" value="Java">
+      <label for="java">Java</label>
+    </form>
+    
+    <br>
+
+    <p>Escolha sua veículo favorito:</p>
+    <form>
+        <input type="checkbox" id="vehicle1" name="vehicle1" value="Bicicleta">
+        <label for="vehicle1"> Bicicleta</label><br>
+        <input type="checkbox" id="vehicle2" name="vehicle2" value="Carro">
+        <label for="vehicle2"> Carro</label><br>
+        <input type="checkbox" id="vehicle3" name="vehicle3" value="Busão">
+        <label for="vehicle3"> Busão</label>
+      </form>
 </body>
 </html>
