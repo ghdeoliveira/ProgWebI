@@ -1,10 +1,10 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <title> Exercício 22 </title>
-</head>
-<body>
-    
-</body>
-</html>
+22) Responda quais os motores também conhecidos como (cross browsers) de cada
+navegador?
+
+Browser             |   Descrição
+----------------------------------------------
+Mozilla Firefox     |   Gecko
+Internet Explorer   |   Trident
+Chrome              |   Webkit
+Safari              |   Webkit
+Opera               |   Presto

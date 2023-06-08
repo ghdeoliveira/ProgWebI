@@ -1,3 +1,7 @@
+11) Com base nas novas especificações da W3C para o HTML5, cite quais são as <tags>
+que foram descontinuadas e quais surgiram a partir do HTML 4.01 estando disponíveis para
+implementação.
+
 <tags> Descontinuadas
 
 <acronym>       Usar <abbr>

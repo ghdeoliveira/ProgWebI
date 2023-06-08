@@ -1,7 +1,35 @@
 EXERCÍCIOS HTML5
 
 12) A principal diferença entre a implementação em HTML4 para HTML5 está ma margem
- superior, que diminui no HTML5, além de aumentar a altura da impressão da fonte, 
- levemente.
+    superior, que diminui no HTML5, além de aumentar a altura da impressão da fonte, 
+    levemente.
 
-13) 
+13) Principal mudança entre navegadores é o tamanho da fonte e o estilo padrão da fonte.
+
+14) Principal mudança entre navegadores é o tamanho da fonte e o estilo padrão da fonte.
+
+15) Principal mudança entre navegadores é o tamanho da fonte e o estilo padrão da fonte,
+    além da espessura da borda.
+
+16) Principal mudança entre navegadores é o tamanho da fonte e o estilo padrão da fonte.
+
+17) Principal mudança entre navegadores é o tamanho da fonte e o estilo padrão da fonte.
+
+18) Principal mudança entre navegadores é o tamanho da fonte e o estilo padrão da fonte.
+
+19) Principal diferença está na altura das tabelas.
+
+20) Principal mudança entre navegadores é o tamanho da fonte e o estilo padrão da fonte,
+    alé dos controladores de mídia serem diferentes em cada navegador.
+
+21) Principal mudança entre navegadores é o tamanho da fonte e o estilo padrão da fonte, 
+    além da proporção do formulário e a estilização dos seus componentes.
+
+23) Principal mudança entre navegadores é o tamanho da fonte e o estilo padrão da fonte.
+
+24) Existe diferença na aplicação dos estilos de manipulação de div e de conteúdos.
+
+25) Principal mudança entre navegadores é o tamanho da fonte e o estilo padrão da fonte, 
+    além da proporção da caixa de diálogo e a estilização dos seus componentes.
+
+26) Principal mudança entre navegadores é o tamanho da fonte e o estilo padrão da fonte.

@@ -2,9 +2,26 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> Exercício 25 </title>
 </head>
 <body>
-    
+    <div> <!-- body content --> </div>
+    <dialog open>
+        <h1>Adicionar a Carteira.</h1>
+        <label for="num">Quantas moedas de ouro quer adicionar à sua carteira?</label>
+        <div>
+            <input name="amt" id="num" type="number" min="0" step="0.01" value="100">
+        </div>
+        <p><strong>Você adiciona moedas sob seu próprio risco.</strong></p>
+        <div>
+            <label>
+                <input name="round" type="checkbox"> Adicione apenas moedas válidas 
+            </label>
+        </div>
+        <div>
+            <input type="button" onclick="submit()" value="Adicionar Moedas">
+        </div>
+    </dialog>
 </body>
 </html>
